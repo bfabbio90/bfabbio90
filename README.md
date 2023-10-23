@@ -1,5 +1,5 @@
 ### Hello, I'm Bruno Fabbio. 🤙
-Just a technology enthusiast.
+A technology enthusiast.
 
 ### Skills:
 
