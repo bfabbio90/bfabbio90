@@ -1,7 +1,7 @@
 ### Howdy, I'm Bruno Fabbio. 🤙
 Tech enthusiast and self-taught programmer.
 
-### Skills:
+### Technologies:
 
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Blog](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
