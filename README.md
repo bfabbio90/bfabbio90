@@ -1,4 +1,4 @@
-### Hello, I'm Bruno Fabbio. 🤙
+### Howdy, I'm Bruno Fabbio. 🤙
 Tech enthusiast and self-taught programmer.
 
 ### Skills:
