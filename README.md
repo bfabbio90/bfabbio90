@@ -1,5 +1,6 @@
 ### Howdy, I'm Bruno. 🤙
 Tech enthusiast and self-taught programmer.
+I'm currently focused on learning TypeScript, Vue.Js and React.Js.
 
 ### Technologies:
 
