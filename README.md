@@ -18,7 +18,7 @@ www.brunofabbiodev.com
 
 ## 💼 About Me
 
-- 👨‍💻 Developer focused on practical, real-world applications.
+- 👨‍💻 Junior Developer focused on practical, real-world applications.
 - 🧠 Experienced with automation using **Power Automate** and **Power Apps**.
 - 🌱 Always learning — currently diving into **RESTful APIs**, **CI/CD**, and smart integrations.
 - 🧩 Love solving problems and optimizing workflows through code.
