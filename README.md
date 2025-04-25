@@ -1,31 +1,52 @@
-# 👨‍💻 Hey there, I'm Bruno!
+# 👋 Hey there! I'm Bruno Fabbio
 
-I'm a **self-taught developer** and **tech enthusiast** who loves transforming ideas into real-world applications. I enjoy solving problems, automating tasks, and continuously learning new technologies. Whether it’s backend logic or crafting beautiful frontends, I thrive on building things that make a difference.
+> 💻 Developer | 🛠️ Problem Solver | 🚀 Tech Enthusiast
 
-🌍 Let's connect:  
-🔗 [www.brunofabbiodev.com](https://www.brunofabbiodev.com)  
-📇 [LinkedIn](https://www.linkedin.com/in/brunofabbio/)
+I'm a **self-taught developer** and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🌐 Connect with me
 
-Here are some of the technologies and tools I work with:
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.brunofabbiodev.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunofabbio/)
 
-**Languages & Databases**
-  
+---
+
+## 💼 About Me
+
+- 👨‍💻 Developer focused on practical, real-world applications.
+- 🧠 Experienced with automation using **Power Automate** and **Power Apps**.
+- 🌱 Always learning — currently diving into **RESTful APIs**, **CI/CD**, and smart integrations.
+- 🧩 Love solving problems and optimizing workflows through code.
+- 🎯 My goal is to grow as a **full-stack developer** and contribute to impactful and innovative projects.
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages & Databases
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Web Development**
-  
+### 🌐 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -38,19 +59,27 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## ✨ About Me
+## 📚 Currently Learning
 
-- 💡 Always exploring new ideas and building side projects.
-- 🔧 Currently working with **Python**, **React**, and **Power Platform**.
-- 🎯 My goal is to grow as a full-stack developer and contribute to impactful projects.
-- 🌱 Always learning — currently diving deeper into APIs, DevOps, and automation.
-- 📚 I believe in **learning by doing** and sharing knowledge with others.
+- ⚙️ RESTful API integration
+- 🚀 Basic DevOps: pipelines, deployments, and versioning
+- 📦 Power Platform automation and flows
+- 🎨 Responsive and dynamic UI design with Tailwind CSS
 
 ---
 
-## ☕ Let's Talk!
+## 🎯 Fun Facts
 
-I'm always open to collaboration, feedback, or just a chat about tech and ideas. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/) or through my [website](https://www.brunofabbiodev.com).  
-Let’s build something amazing together!
+- 🎧 I love learning new techs.
+- 🧩 I enjoy solving logic puzzles and brain teasers.
+- 🛠️ In my free time, I like taking apart old electronics just to understand how they work.
+
+---
+
+## ☕ Let's connect!
+
+If you're working on something exciting or just want to chat about tech, I'm always open to new ideas and collaborations.  
+Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/) or visit my [portfolio](https://www.brunofabbiodev.com).  
+Let’s build something awesome together! 🚀
 
 ---
