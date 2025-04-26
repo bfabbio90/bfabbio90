@@ -74,7 +74,7 @@ www.brunofabbiodev.com
 
 ## 🎯 Fun Facts
 
-- 🎧 I love learning new techs.
+- 🌍 I love learning new techs.
 - 🧩 I enjoy solving logic puzzles and brain teasers.
 - 🛠️ In my free time, I like taking apart old electronics just to understand how they work.
 
