@@ -86,6 +86,7 @@ www.brunofabbiodev.com
 
 If you're working on something exciting or just want to chat about tech, I'm always open to new ideas and collaborations.  
 Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/) or visit my [portfolio](https://www.brunofabbiodev.com).  
+
 Let’s build something awesome together! 🚀
 
 ---
