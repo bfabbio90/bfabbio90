@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Bruno Fabbio
 
-> 💻 Developer | 🛠️ Problem Solver | 🚀 Tech Enthusiast
+ 💻 Developer | 🛠️ Problem Solver | 🚀 Tech Enthusiast
 
 I'm a **self-taught developer** and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.
 
