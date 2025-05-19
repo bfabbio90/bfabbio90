@@ -4,7 +4,7 @@
 
 I'm a **self-taught developer** and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.
 
-I'm currently working on the [neogrow open source project](https://github.com/vinimdcruz/neogrow) with @vinimdcruz
+I'm currently working on the [NeoGrow](https://github.com/vinimdcruz/neogrow) open source project with @vinimdcruz
 
 ---
 
