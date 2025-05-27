@@ -5,9 +5,9 @@
 </p>
 
 
-<p>I'm a **self-taught developer** and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
+<p align="center">I'm a **self-taught developer** and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
 
-<p>I'm currently working on the [neogrow](https://github.com/vinimdcruz/neogrow) open source project with @vinimdcruz</p>
+<p align="center">I'm currently working on the [neogrow](https://github.com/vinimdcruz/neogrow) open source project with @vinimdcruz</p>
 
 ---
 
