@@ -95,10 +95,3 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/) or visit my [
 Let’s build something awesome together! 🚀
 
 ---
-
-If you're working on something exciting or just want to chat about tech, I'm open to new ideas and collaborations.  
-📬 [www.brunofabbiodev.com](https://www.brunofabbiodev.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/brunofabbio/)
-
----
-
