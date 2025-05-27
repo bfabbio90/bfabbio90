@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#38BDF8;">Bruno Fabbio</span></h1>
 
 <p align="center">
-  <img src="https://your-avatar-url-here.png" width="200" alt="Avatar of Bruno Fabbio"/>
-</p>
-
-<p align="center">
   💻 Developer • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
 </p>
 
@@ -25,7 +21,7 @@
 - 🧠 Automating workflows with **Power Automate** and **Power Apps**  
 - 🌱 Learning: **RESTful APIs**, **CI/CD**, and integrations  
 - 🎯 Goal: Become a **full-stack developer** and build impactful tools  
-- 👥 Collaborating on [neogrow](https://github.com/vinimdcruz/neogrow) with @vinimdcruz  
+- 👥 Currently collaborating on [neogrow](https://github.com/vinimdcruz/neogrow) project with @vinimdcruz  
 
 ---
 
