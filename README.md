@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#38BDF8;">Bruno Fabbio</span></h1>
-<br>
 
 <p align="center">
   💻 Developer • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
