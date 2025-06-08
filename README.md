@@ -19,6 +19,7 @@
 ## 💼 About Me
 
 - 👨‍💻 Junior Developer focused on practical, real-world applications.
+- 🚀 Currently working on [**neogrow**](https://github.com/vinimdcruz/neogrow), an open source platform using **FastAPI** and **Next.js**.
 - 🧠 Experienced with automation using **Power Automate** and **Power Apps**.
 - 🌱 Always learning — currently diving into **RESTful APIs**, **CI/CD**, and smart integrations.
 - 🧩 Love solving problems and optimizing workflows through code.
