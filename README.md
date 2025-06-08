@@ -6,7 +6,9 @@
 
 
 <p align="center">I'm a self-taught developer and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
-<p align="center">I'm Currently working on [**neogrow**](https://github.com/vinimdcruz/neogrow), an open source platform using **FastAPI** and **Next.js**.</p>
+<p align="center">
+  I'm currently working on <a href="https://github.com/vinimdcruz/neogrow"><strong>NeoGrow</strong></a>, an open source platform using <strong>FastAPI</strong> and <strong>Next.js</strong>.
+</p>
 
 
 ---
