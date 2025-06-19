@@ -7,7 +7,7 @@
 
 <p align="center">I'm a self-taught developer and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
 <p align="center">
-  I'm currently working on <a href="https://github.com/vinimdcruz/neogrow"><strong>neogrow</strong></a> project, an open source platform using <strong>FastAPI</strong> and <strong>Next.js</strong>.
+  🚀 I'm currently working on <a href="https://github.com/vinimdcruz/neogrow"><strong>neogrow</strong></a> project, an open source platform using <strong>FastAPI</strong> and <strong>Next.js</strong>.
 </p>
 
 
@@ -22,7 +22,6 @@
 ## 💼 About Me
 
 - 👨‍💻 Junior Developer focused on practical, real-world applications.
-- 🚀 Currently working on [**neogrow**](https://github.com/vinimdcruz/neogrow), an open source platform using **FastAPI** and **Next.js**.
 - 🧠 Experienced with automation using **Power Automate** and **Power Apps**.
 - 🌱 Always learning — currently diving into **RESTful APIs**, **CI/CD**, and smart integrations.
 - 🧩 Love solving problems and optimizing workflows through code.
