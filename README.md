@@ -78,7 +78,7 @@
 
 ## 🎯 Fun Facts
 
-- 🌍 I love learning new techs.
+- 🌍 I love learning new techs and languages.
 
 ---
 
