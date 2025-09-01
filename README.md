@@ -67,6 +67,14 @@
 
 ---
 
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bfabbio90&theme=react-dark&hide_border=true&area=true&line=38BDF8&point=38BDF8" />
+</div>
+
+---
+
 ## 📚 Currently Learning
 
 - ⚙️ RESTful API integration
