@@ -62,7 +62,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfabbio90&show_icons=true&theme=blue-green&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=blue-green&hide_title=true" />
 </div>
 
 ---
