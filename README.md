@@ -74,6 +74,9 @@
 
 ---
 
+### 📊 Minhas estatísticas
+![](https://raw.githubusercontent.com/bfabbio90/bfabbio90/main/profile-summary-card-output/github_dark/3-stats.svg)
+
 ## 📚 Currently Learning
 
 - ⚙️ RESTful API integration
