@@ -74,8 +74,6 @@
 
 ---
 
-### 📊 Minhas estatísticas
-![](https://raw.githubusercontent.com/bfabbio90/bfabbio90/main/profile-summary-card-output/github_dark/3-stats.svg)
 
 ## 📚 Currently Learning
 
@@ -95,7 +93,7 @@
 ## ☕ Let's connect!
 
 If you're working on something exciting or just want to chat about tech, I'm always open to new ideas and collaborations.  
-Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/) or visit my [portfolio](https://www.brunofabbiodev.com).  
+Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/).  
 
 Let’s build something awesome together! 🚀
 
