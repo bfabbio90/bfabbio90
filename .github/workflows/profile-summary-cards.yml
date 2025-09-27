@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     name: generate
     steps:
-      # 1️⃣ Checar o código
+      # 1️⃣ Checar o repositório
       - uses: actions/checkout@v3
 
-      # 2️⃣ Configurar Git para push
+      # 2️⃣ Configurar Git para commits
       - name: Configurar Git
         run: |
           git config --global user.name "github-actions[bot]"
@@ -26,9 +26,14 @@ jobs:
         with:
           USERNAME: bfabbio90
 
-      # 4️⃣ Commit e push das alterações
+      # 4️⃣ Configurar o remote para push seguro
+      - name: Configurar remote com token
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/bfabbio90/bfabbio90.git
+
+      # 5️⃣ Commit & Push das alterações
       - name: Commit & Push
         run: |
           git add .
           git commit -m "Atualizando GitHub Profile Summary Cards" || echo "Sem alterações para commitar"
-          git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/bfabbio90/bfabbio90.git HEAD:main
+          git push origin HEAD
