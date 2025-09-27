@@ -10,9 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     name: generate
     steps:
-      - uses: actions/checkout@v2
+      # 1️⃣ Checar o código
+      - uses: actions/checkout@v3
+
+      # 2️⃣ Configurar Git para push
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 3️⃣ Gerar os cards usando seu token pessoal
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}  # <-- aqui usamos o seu secret
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}  # token com escopos: repo, workflow, read:user, user:email
         with:
           USERNAME: bfabbio90
+
+      # 4️⃣ Commit e push das alterações
+      - name: Commit & Push
+        run: |
+          git add .
+          git commit -m "Atualizando GitHub Profile Summary Cards" || echo "Sem alterações para commitar"
+          git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/bfabbio90/bfabbio90.git HEAD:main
