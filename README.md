@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 “Languages I use the most
+## 📊 Languages I use the most
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por bfabbio90" />
@@ -112,5 +112,6 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 Let’s build something awesome together! 🚀
 
 ---
+
 
 
