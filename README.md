@@ -1,6 +1,6 @@
-<h1 align="center"><span style="color:#38BDF8;">Bruno Fabbio</span></h1>
+<h1 align="center"><span style="color:#38BDF8;">Hi, I'm Bruno.</span></h1>
 
-<p align="center"> <img src="./img/programmer.png" alt="Minha Imagem" width="300"> </p>
+<p align="center"> <img src="./img/programmer.png" alt="Minha Imagem" width="200"> </p>
 
 <p align="center">
   💻 Developer • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
