@@ -1,13 +1,6 @@
 <h1 align="center"><span style="color:#38BDF8;">Bruno Fabbio</span></h1>
 
-<p style="text-align: center; margin: 20px;">
-    <img 
-        src="./img/programmer.png" 
-        alt="Minha Imagem" 
-        width="250" 
-        style="border-radius: 15px; margin-right: 30px;"
-    >
-</p>
+<p align="center"> <img src="./img/programmer.png" alt="Minha Imagem" width="300"> </p>
 
 <p align="center">
   💻 Developer • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
