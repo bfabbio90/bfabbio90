@@ -1,6 +1,10 @@
 <h1 align="center"><span style="color:#38BDF8;">Bruno Fabbio</span></h1>
 
 <p align="center">
+  <img src="./img/bruprogrammer.png" alt="Minha Imagem" width="200">
+</p>
+
+<p align="center">
   💻 Developer • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
 </p>
 
@@ -112,6 +116,3 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 Let’s build something awesome together! 🚀
 
 ---
-
-
-
