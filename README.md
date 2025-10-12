@@ -2,12 +2,12 @@
 
 
 <p align="center">
-  💻 Developer • 🧭 Industrial engineering student (final semester) • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
+  💻 Frontend Developer • 🧭 Industrial engineering student (final semester) • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
 </p>
 
 
 <p align="center">I'm a self-taught developer and lifelong learner passionate about building meaningful and efficient digital solutions.
-Currently in the final semester of my Industrial Engineering degree, where I've developed a strong understanding of agility, optimization, and process improvement.
+I'm currently in the final semester of my Industrial Engineering degree, where I've developed a strong understanding of agility, optimization and process improvement.
 I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
 
 ---
