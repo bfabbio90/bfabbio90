@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  💻 Frontend Developer • 🧭 Industrial engineering student (final semester) • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
+   Frontend Developer | Tech Enthusiast | Industrial engineering student (final semester)  
 </p>
 
 
