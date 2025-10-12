@@ -1,12 +1,14 @@
-<h1 align="center"><span style="color:#38BDF8;">Hi, I'm Bruno.</span></h1>
+<h1 align="center"><span style="color:#38BDF8;">Howdy, I'm Bruno.</span></h1>
 
 
 <p align="center">
-  💻 Developer • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
+  💻 Developer • 🧭 Industrial engineering student (final semester) • 🛠️ Problem Solver • 🚀 Tech Enthusiast  
 </p>
 
 
-<p align="center">I'm a self-taught developer and lifelong learner passionate about building meaningful and efficient digital solutions. I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
+<p align="center">I'm a self-taught developer and lifelong learner passionate about building meaningful and efficient digital solutions.
+Currently in the final semester of my Industrial Engineering degree, where I've developed a strong understanding of agility, optimization, and process improvement.
+I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
 
 ---
 
