@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   Frontend Developer | Tech Enthusiast | Industrial engineering student (final semester)  
+   Frontend Developer | Tech Enthusiast | Industrial Engineer  
 </p>
 
 
@@ -111,3 +111,4 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 Let’s build something awesome together! 🚀
 
 ---
+
