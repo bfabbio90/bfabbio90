@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#38BDF8;">Bruno Fabbio.</span></h1>
+<h1 align="center"><span style="color:#38BDF8;">Bruno Fabbio</span></h1>
 
 
 <p align="center">
@@ -111,6 +111,7 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 Let’s build something awesome together! 🚀
 
 ---
+
 
 
 
