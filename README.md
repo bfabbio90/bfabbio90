@@ -7,7 +7,7 @@
 
 
 <p align="center">I'm a self-taught developer and lifelong learner passionate about building meaningful and efficient digital solutions.
-I'm currently in the final semester of my Industrial Engineering degree, where I've developed a strong understanding of agility, optimization and process improvement.
+I'm an Industrial Engineer. Therefore, I've developed a strong understanding of agility, optimization and process improvement.
 I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
 
 ---
@@ -111,4 +111,5 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 Let’s build something awesome together! 🚀
 
 ---
+
 
