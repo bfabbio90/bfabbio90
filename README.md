@@ -66,16 +66,16 @@ I believe in continuous growth, learning by doing, and turning ideas into impact
 ## 📊 Languages I use the most
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por bfabbio90" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfabbio90&show_icons=true&theme=blue-green&hide_title=true" />
-</div>
+<p align="center">
+  <img src="https://stats.demolab.com/api?username=bfabbio90&show_icons=true&theme=tokyonight&hide_title=true" />
+</p>
 
 ---
 
