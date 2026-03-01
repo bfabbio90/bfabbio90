@@ -63,14 +63,6 @@ I believe in continuous growth, learning by doing, and turning ideas into impact
 
 ---
 
-## 📊 Languages I use the most
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -111,6 +103,7 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 Let’s build something awesome together! 🚀
 
 ---
+
 
 
 
