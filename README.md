@@ -64,20 +64,16 @@ I believe in continuous growth, learning by doing, and turning ideas into impact
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://stats.demolab.com/api?username=bfabbio90&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bfabbio90&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bfabbio90&theme=react-dark&hide_border=true&area=true&line=38BDF8&point=38BDF8" />
-</div>
-
----
+## 🧑‍💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ## 📚 Currently Learning
