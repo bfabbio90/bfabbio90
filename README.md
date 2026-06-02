@@ -63,19 +63,6 @@ I believe in continuous growth, learning by doing, and turning ideas into impact
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bfabbio90&show_icons=true&theme=tokyonight&hide_title=true" />
-</p>
-
----
-
-## 🧑‍💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
 ## 📚 Currently Learning
 
 - ⚙️ RESTful API integration
