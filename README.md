@@ -9,7 +9,6 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/bfabbio90/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=bfabbio90&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS">
 
 </div>
 
