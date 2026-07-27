@@ -72,42 +72,6 @@ Grow as a full-stack developer and contribute to impactful, innovative projects.
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bfabbio90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bfabbio90&theme=tokyonight&hide_border=true" height="165">
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</div>
-
-> ⚠️ Confirme que `bfabbio90` é exatamente seu username no GitHub — caso contrário os cards acima não vão carregar.
-
-<br>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/bfabbio90/bfabbio90/output/github-contribution-grid-snake.svg" width="100%">
-</div>
-
-> Este "snake" animado é gerado automaticamente por uma GitHub Action. Posso te mostrar como configurar em 2 minutos, se quiser ativar.
-
-<br>
-
-<div align="center">
-
-## ☕ Let's Connect
-
-Se você está construindo algo interessante ou só quer trocar uma ideia sobre tech, sempre estou aberto a novas conexões e colaborações.
-
-<a href="https://www.linkedin.com/in/bfabbio90/"><img src="https://img.shields.io/badge/Vamos%20conversar-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=100&section=footer" width="100%">
-
-</div>
 
 
 ================================================================
