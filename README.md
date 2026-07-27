@@ -29,66 +29,6 @@ belief: Learn by doing. Ship, then improve.
 
 <br>
 
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,tailwind,sass,html,css,mongodb,sqlite,docker,git,vscode,linux&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**⚡ Automation & Platforms**
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white">
-
-**🌱 Currently Learning**
-- RESTful API integration
-- DevOps: pipelines, deployments, versioning
-- Power Platform automation flows
-- Dynamic UI design with Tailwind CSS
-
-</td>
-<td valign="top" width="50%">
-
-**🎯 Fun Fact**
-
-I love picking up new technologies and languages — always up for a new challenge.
-
-**📌 Goal**
-
-Grow as a full-stack developer and contribute to impactful, innovative projects.
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-
-
-================================================================
-
-<h1 align="center"><span style="color:#38BDF8;">Bruno Fabbio</span></h1>
-
-
-<p align="center">
-   Production Engineer | Frontend Developer | Data Analyst  
-</p>
-
-
-<p align="center">I'm a self-taught developer and lifelong learner passionate about building meaningful and efficient digital solutions.
-I'm a Production Engineer. Therefore, I've developed a strong understanding of agility, optimization and process improvement.
-I believe in continuous growth, learning by doing, and turning ideas into impactful projects.</p>
-
----
 
 ## 🌐 Connect with me
 
