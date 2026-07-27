@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=200&section=header&text=Bruno%20Fabbio&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Production%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" width="100%">
 
-<a href="https://www.linkedin.com/in/bfabbio90/">
+<a href="https://www.linkedin.com/in/brunofabbio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Self-taught+developer+%26+lifelong+learner;Turning+ideas+into+efficient+digital+solutions;Always+learning%2C+always+building" alt="Typing SVG">
 </a>
 
