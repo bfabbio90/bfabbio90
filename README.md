@@ -22,11 +22,11 @@ My engineering background shaped the way I approach technology: understanding pr
 
 Today, I'm expanding my expertise across frontend and backend development while exploring the possibilities of Microsoft's Power Platform and AI-powered solutions.
 
-- 💻 Building applications with **JavaScript, TypeScript, React, C# and .NET**
-- ⚡ Exploring business automation with **Microsoft Power Platform**
-- 📊 Interested in data analytics and process optimization
-- 🌱 Developing my skills in **REST APIs, CI/CD and full-stack development**
-- 🎯 Focused on creating efficient, scalable and meaningful solutions
+-  Building applications with **JavaScript, TypeScript, React, C# and .NET**
+-  Exploring business automation with **Microsoft Power Platform**
+-  Interested in data analytics and process optimization
+-  Developing my skills in **REST APIs, CI/CD and full-stack development**
+-  Focused on creating efficient, scalable and meaningful solutions
 
 ---
 
