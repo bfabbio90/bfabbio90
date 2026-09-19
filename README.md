@@ -47,11 +47,6 @@ belief: Learn by doing. Ship, then improve.
 
 ## ⚙️ Tech Stack
 
-<h2 align="center">💻 Languages & Technologies</h2>
-
-<p align="center">
-  <em>Technologies behind my projects</em>
-</p>
 
 <div align="center">
 
@@ -76,16 +71,34 @@ belief: Learn by doing. Ship, then improve.
 
 <br>
 
-### 🧰 Tools & Platforms
+<h3 align="center">🧰 Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <em>Automation • Analytics • Low-Code • AI</em>
 </p>
 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=202020" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Copilot_Studio-7051C8?style=for-the-badge" alt="Copilot Studio" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" alt="Linux" />
+
+</div>
+
+<br>
 ---
 
 ## 📚 Currently Learning
