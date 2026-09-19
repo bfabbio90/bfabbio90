@@ -45,60 +45,100 @@ belief: Learn by doing. Ship, then improve.
 
 ---
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
+<p align="center">
+  <em>Technologies I use to build, automate and optimize solutions.</em>
+</p>
+
+<br>
+
+<h3 align="center">💻 Languages & Frameworks</h3>
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" alt="C#" title="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" alt="React" title="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" alt=".NET" title=".NET" />
+
+</div>
+
+<br>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite" title="SQLite" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB" title="MongoDB" />
+
+</div>
+
+<br>
+
+<h3 align="center">⚡ Microsoft Power Platform & AI</h3>
+
+<p align="center">
+  <em>Low-code development • Automation • Business Intelligence • AI Agents</em>
+</p>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logoColor=white" alt="Power Automate" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&labelColor=202020" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Copilot%20Studio-7051C8?style=for-the-badge&logoColor=white" alt="Copilot Studio" />
+
+</div>
+
+<br>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code" title="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="42" alt="Visual Studio" title="Visual Studio" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" alt="Linux" title="Linux" />
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-0EA5E9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-0284C7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-38BDF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-0369A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Solutions-075985?style=flat-square" />
 </p>
 
 <br>
 
-<h3 align="center">🧰 Tools & Platforms</h3>
-
-<p align="center">
-  <em>Automation • Analytics • Low-Code • AI</em>
-</p>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=202020" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Copilot_Studio-7051C8?style=for-the-badge" alt="Copilot Studio" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" alt="Linux" />
-
-</div>
-
-<br>
 ---
 
 ## 📚 Currently Learning
