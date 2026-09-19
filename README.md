@@ -28,6 +28,19 @@ belief: Learn by doing. Ship, then improve.
 
 <br>
 
+<h2 align="center">📊 Most Used Languages</h2>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofabbio&layout=compact&theme=transparent&title_color=38BDF8&text_color=FFFFFF&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+
+</div>
+
+<br>
+
 
 ## 🌐 Connect with me
 
