@@ -4,7 +4,7 @@
 
 ### Software Development · Data Analytics · Automation
 
-Production Engineer with software development skills, combining analytical thinking, process optimization, and technology to build practical digital solutions.
+Production Engineer with a passion for software development, combining analytical thinking, process optimization, and technology to build practical digital solutions.
 
 <br>
 
