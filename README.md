@@ -33,8 +33,8 @@ belief: Learn by doing. Ship, then improve.
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofabbio&layout=compact&theme=transparent&title_color=38BDF8&text_color=FFFFFF&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunofabbio&theme=github_dark"
+    alt="Languages by Repository"
   />
 
 </div>
