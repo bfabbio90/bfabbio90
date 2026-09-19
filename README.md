@@ -33,8 +33,8 @@ belief: Learn by doing. Ship, then improve.
 <div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github_dark"
-    alt="Languages by Repository"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github_dark"
+    alt="Most Used Languages"
   />
 
 </div>
