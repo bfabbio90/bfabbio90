@@ -28,12 +28,12 @@ belief: Learn by doing. Ship, then improve.
 
 <br>
 
-<h2 align="center">📊 Most Used Languages</h2>
+<h2 align="center">💻 Languages & Technologies</h2>
 
 <div align="center">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117&hide_border=true&langs_count=8&card_width=450"
     alt="Most Used Languages"
   />
 
