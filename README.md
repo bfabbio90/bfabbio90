@@ -28,19 +28,6 @@ belief: Learn by doing. Ship, then improve.
 
 <br>
 
-<h2 align="center">💻 Languages & Technologies</h2>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117&hide_border=true&langs_count=8&card_width=450"
-    alt="Most Used Languages"
-  />
-
-</div>
-
-<br>
-
 
 ## 🌐 Connect with me
 
@@ -60,26 +47,34 @@ belief: Learn by doing. Ship, then improve.
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages & Databases
+<h2 align="center">💻 Languages & Technologies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <em>Technologies behind my projects</em>
 </p>
 
-### 🌐 Frontend Development
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite" />
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-right:5px;">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-0EA5E9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-0284C7?style=flat-square&logoColor=white" />
 </p>
+
+<br>
 
 ### 🧰 Tools & Platforms
 
