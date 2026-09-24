@@ -34,9 +34,9 @@ Today, I'm expanding my expertise across frontend and backend development while 
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github_dark"
     width="400"
-    alt="Linguagens mais utilizadas"
+    alt="Linguagens por repositório"
   />
 </div>
 
