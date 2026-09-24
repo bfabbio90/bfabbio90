@@ -32,7 +32,12 @@ Today, I'm expanding my expertise across frontend and backend development while 
 
 ## 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=donut&theme=transparent&hide_border=true)
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=donut&theme=transparent&hide_border=true"
+    alt="Linguagens mais usadas"
+  />
+</div>
 
 ### Languages & Frameworks
 
