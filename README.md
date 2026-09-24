@@ -34,9 +34,13 @@ Today, I'm expanding my expertise across frontend and backend development while 
 
 <div align="center">
   <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=donut&theme=github_dark&hide_border=true"
-    alt="Linguagens mais usadas"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github_dark"
+    alt="Linguagens por repositório"
+  />
+  
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github_dark"
+    alt="Linguagens por commits"
   />
 </div>
 
