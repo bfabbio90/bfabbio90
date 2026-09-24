@@ -34,7 +34,8 @@ Today, I'm expanding my expertise across frontend and backend development while 
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=donut&theme=transparent&hide_border=true"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=donut&theme=github_dark&hide_border=true"
     alt="Linguagens mais usadas"
   />
 </div>
