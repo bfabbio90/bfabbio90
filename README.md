@@ -96,10 +96,6 @@ My interests connect three areas: **software development, data analytics, and au
 
 I'm always open to exchanging ideas, learning with other developers, and collaborating on useful technology.
 
-**[Find me on LinkedIn ↗](https://www.linkedin.com/in/brunofabbio/)** · **[Explore my repositories ↗](https://github.com/bfabbio90?tab=repositories)**
-
----
-
 <div align="center">
   <sub>Learn by doing · Build with purpose · Keep improving</sub>
 </div>
