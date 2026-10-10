@@ -4,7 +4,7 @@
 
 **Software Development · Data Analytics · Intelligent Automation**
 
-Production Engineer with a software mindset — turning complex problems into practical, data-driven solutions.
+Production Engineer with a software mindset turning complex problems into practical, data-driven solutions.
 
 <a href="https://www.linkedin.com/in/brunofabbio/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
@@ -21,7 +21,7 @@ Production Engineer with a software mindset — turning complex problems into pr
 
 I bring an engineering approach to technology: **understand the problem, simplify the process, and build something useful.**
 
-My interests connect three areas — **software development, data analytics, and automation** — with a focus on creating solutions that improve everyday work.
+My interests connect three areas: **software development, data analytics, and automation**, with a focus on creating solutions that improve everyday work.
 
 - **Building with:** JavaScript, TypeScript, React, C# and .NET
 - **Working with data:** Python, SQL and Power BI
