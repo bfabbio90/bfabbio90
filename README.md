@@ -9,9 +9,6 @@ Production Engineer with a software mindset turning complex problems into practi
 <a href="https://www.linkedin.com/in/brunofabbio/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="https://github.com/bfabbio90?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
-</a>
 
 </div>
 
