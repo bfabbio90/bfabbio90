@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi, I'm Bruno Fabbio 👋
@@ -85,9 +86,16 @@ My interests connect three areas: **software development, data analytics, and au
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90&theme=github" alt="Bruno's GitHub activity overview" width="100%" />
 </picture>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github" alt="Languages used across Bruno's repositories" width="390" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github" alt="Languages by repository" width="390" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github" alt="Languages by commit" width="390" />
 </picture>
 
 </div>
