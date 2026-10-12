@@ -2,7 +2,7 @@
 
 # Hi, I'm Bruno Fabbio 👋
 
-### Software Development · Data Analytics · Intelligent Automation
+### Software Development | Data Analytics | Intelligent Automation
 
 Industrial engineer with a developer's mindset: I turn complex processes into practical, data-driven software.
 
