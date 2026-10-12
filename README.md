@@ -7,7 +7,7 @@
 Industrial engineer with a developer's mindset: I turn complex processes into practical, data-driven software.
 
 <a href="https://www.linkedin.com/in/brunofabbio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-
+<a href="https://github.com/bfabbio90?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" /></a>
 <!-- Optional: add an email badge
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
 -->
@@ -75,8 +75,8 @@ Or describe them briefly:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&card_width=420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969da&text_color=1f2328&card_width=420" alt="Most used languages" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=12&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969da&text_color=1f2328&card_width=420" alt="Most used languages" width="420" />
 </picture>
 
 </div>
