@@ -18,7 +18,7 @@ Industrial engineer with a developer's mindset: I turn complex processes into pr
 
 ## About me
 
-My background in industrial engineering shapes how I build software: **understand the problem, simplify the process, then build something people actually use.**
+My background in Industrial Engineering shapes how I approach business challenges: **understand the problem, simplify the process, and build solutions people actually use.**
 
 I work where three areas meet (**software development, data analytics and automation**) and I enjoy projects that make everyday work faster, clearer and less manual.
 
