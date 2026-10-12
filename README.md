@@ -7,7 +7,7 @@
 Industrial engineer with a developer's mindset: I turn complex processes into practical, data-driven software.
 
 <a href="https://www.linkedin.com/in/brunofabbio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/bfabbio90?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" /></a>
+
 <!-- Optional: add an email badge
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
 -->
