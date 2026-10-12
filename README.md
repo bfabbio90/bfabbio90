@@ -1,15 +1,16 @@
-
 <div align="center">
 
 # Hi, I'm Bruno Fabbio 👋
 
-**Software Development · Data Analytics · Intelligent Automation**
+### Software Development · Data Analytics · Intelligent Automation
 
-Production Engineer with a software mindset turning complex problems into practical, data-driven solutions.
+Industrial engineer with a developer's mindset: I turn complex processes into practical, data-driven software.
 
-<a href="https://www.linkedin.com/in/brunofabbio/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/brunofabbio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/bfabbio90?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" /></a>
+<!-- Optional: add an email badge
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+-->
 
 </div>
 
@@ -17,65 +18,52 @@ Production Engineer with a software mindset turning complex problems into practi
 
 ## About me
 
-I bring an engineering approach to technology: **understand the problem, simplify the process, and build something useful.**
+My background in industrial engineering shapes how I build software: **understand the problem, simplify the process, then build something people actually use.**
 
-My interests connect three areas: **software development, data analytics, and automation**, with a focus on creating solutions that improve everyday work.
+I work where three areas meet (**software development, data analytics and automation**) and I enjoy projects that make everyday work faster, clearer and less manual.
 
-- **Building with:** JavaScript, TypeScript, React, C# and .NET
-- **Working with data:** Python, SQL and Power BI
-- **Exploring automation:** Power Apps, Power Automate and Copilot Studio
-- **Growing in:** REST APIs, full-stack architecture, CI/CD and deployment
+## What I'm working on
+
+| Area | Focus |
+| :--- | :--- |
+| 🧩 **Full-stack development** | React, TypeScript, ASP.NET Core and RESTful APIs |
+| 📊 **Data & insights** | Python, SQL and Power BI for analysis and process improvement |
+| ⚙️ **Business automation** | Power Apps, Power Automate and AI-assisted workflows with Copilot Studio |
+| 🚀 **Engineering practices** | CI/CD, Docker, deployment and maintainable architecture |
 
 ## Tech stack
 
 **Languages & frameworks**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt=".NET" title=".NET" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,py,html,css" alt="JavaScript, TypeScript, React, C#, .NET, Python, HTML5, CSS3" />
 
-**Databases & analytics**
+**Databases, tools & workflow**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" title="SQLite" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=202020&logoColor=white" height="28" alt="Power BI" />
-</p>
+<img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,vscode,visualstudio,docker,linux" alt="SQLite, MongoDB, Git, GitHub, VS Code, Visual Studio, Docker, Linux" />
 
 **Microsoft Power Platform & AI**
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logoColor=white" height="28" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logoColor=white" height="28" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/Copilot%20Studio-7051C8?style=flat-square&logoColor=white" height="28" alt="Copilot Studio" />
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge" alt="Power Apps" />
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge" alt="Power Automate" />
+<img src="https://img.shields.io/badge/Copilot%20Studio-7051C8?style=for-the-badge" alt="Copilot Studio" />
 
-**Tools & workflow**
+<!--
+## Featured projects
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="34" height="34" alt="GitHub" title="GitHub" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code" title="VS Code" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="34" height="34" alt="Visual Studio" title="Visual Studio" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="34" height="34" alt="Docker" title="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="34" height="34" alt="Linux" title="Linux" />
-</p>
+Replace REPO_NAME with your best repositories (2 to 4 is ideal).
 
-## Current focus
+<a href="https://github.com/bfabbio90/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90&repo=REPO_NAME&theme=transparent&hide_border=true" alt="REPO_NAME" />
+</a>
+<a href="https://github.com/bfabbio90/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90&repo=REPO_NAME&theme=transparent&hide_border=true" alt="REPO_NAME" />
+</a>
 
-| Area | What I'm exploring |
-| :--- | :--- |
-| **Full-stack development** | React, TypeScript, ASP.NET Core and RESTful APIs |
-| **Data & insights** | Python, SQL, Power BI and process improvement |
-| **Business automation** | Power Apps, Power Automate and AI-assisted workflows |
-| **Engineering practices** | CI/CD, Docker, deployment and maintainable architecture |
+Or describe them briefly:
+
+- **[Project name](https://github.com/bfabbio90/REPO_NAME)**: one line on the problem it solves and the stack used.
+-->
 
 ## GitHub activity
 
@@ -86,23 +74,20 @@ My interests connect three areas: **software development, data analytics, and au
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90&theme=github" alt="Bruno's GitHub activity overview" width="100%" />
 </picture>
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github" alt="Languages by repository" width="390" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github" alt="Languages by repository" width="49%" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github" alt="Languages by commit" width="390" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfabbio90&theme=github" alt="Languages by commit" width="49%" />
 </picture>
 
 </div>
 
 ## Let's connect
 
-I'm always open to exchanging ideas, learning with other developers, and collaborating on useful technology.
+I'm always open to exchanging ideas, learning with other developers and collaborating on useful technology. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 
 <div align="center">
   <sub>Learn by doing · Build with purpose · Keep improving</sub>
