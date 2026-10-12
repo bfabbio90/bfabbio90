@@ -75,8 +75,8 @@ Or describe them briefly:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfabbio90&theme=github" alt="Languages by repository" width="420" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969da&text_color=1f2328&card_width=420" alt="Most used languages" width="420" />
 </picture>
 
 </div>
