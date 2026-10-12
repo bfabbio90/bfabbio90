@@ -4,7 +4,7 @@
 
 ### Software Development | Data Analytics | Intelligent Automation
 
-Industrial engineer with a developer's mindset: I turn complex processes into practical, data-driven software.
+Production engineer with a developer's mindset: I turn complex processes into practical, data-driven software.
 
 <a href="https://www.linkedin.com/in/brunofabbio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
@@ -18,7 +18,7 @@ Industrial engineer with a developer's mindset: I turn complex processes into pr
 
 ## About me
 
-My background in Industrial Engineering shapes how I approach business challenges: **understand the problem, simplify the process, and build solutions people actually use.**
+My background in engineering shapes how I approach business challenges: **understand the problem, simplify the process, and build solutions people actually use.**
 
 I work where three areas meet (**software development, data analytics and automation**) and I enjoy projects that make everyday work faster, clearer and less manual.
 
