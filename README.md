@@ -1,4 +1,4 @@
-<div align="center">
+&#x20;\<div align="center">
 
 # Hi, I'm Bruno Fabbio 👋
 
@@ -6,13 +6,17 @@
 
 Production engineer with a developer's mindset: I turn complex processes into practical, data-driven software.
 
-<a href="https://www.linkedin.com/in/brunofabbio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+\<a href="[https://www.linkedin.com/in/brunofabbio/](https://www.linkedin.com/in/brunofabbio/)">
+&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="Connect on LinkedIn" />
+\</a>
 
-<!-- Optional: add an email badge
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
--->
+\<!-- Optional: add an email badge
+\<a href="mailto\:you\@example.com">
+&#x20; \<img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Send me an email" />
+\</a>
+\-->
 
-</div>
+\</div>
 
 ---
 
@@ -24,67 +28,55 @@ I work where three areas meet (**software development, data analytics and automa
 
 ## What I'm working on
 
-| Area | Focus |
-| :--- | :--- |
-| 🧩 **Full-stack development** | React, TypeScript, ASP.NET Core and RESTful APIs |
-| 📊 **Data & insights** | Python, SQL and Power BI for analysis and process improvement |
-| ⚙️ **Business automation** | Power Apps, Power Automate and AI-assisted workflows with Copilot Studio |
-| 🚀 **Engineering practices** | CI/CD, Docker, deployment and maintainable architecture |
+| Area                          | Focus                                                                    |
+| :---------------------------- | :----------------------------------------------------------------------- |
+| 🧩 **Full-stack development** | React, TypeScript, ASP.NET Core and RESTful APIs                         |
+| 📊 **Data & insights**        | Python, SQL and Power BI for analysis and process improvement            |
+| ⚙️ **Business automation**    | Power Apps, Power Automate and AI-assisted workflows with Copilot Studio |
+| 🚀 **Engineering practices**  | CI/CD, Docker, deployment and maintainable architecture                  |
 
 ## Tech stack
 
 **Languages & frameworks**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,py,html,css" alt="JavaScript, TypeScript, React, C#, .NET, Python, HTML5, CSS3" />
+\<img src="[https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,py,html,css](https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,py,html,css)" alt="JavaScript, TypeScript, React, C#, .NET, Python, HTML5, CSS3" />
 
 **Databases, tools & workflow**
 
-<img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,vscode,visualstudio,docker,linux" alt="SQLite, MongoDB, Git, GitHub, VS Code, Visual Studio, Docker, Linux" />
+\<img src="[https://skillicons.dev/icons?i=sqlite,mongodb,git,github,vscode,visualstudio,docker,linux](https://skillicons.dev/icons?i=sqlite,mongodb,git,github,vscode,visualstudio,docker,linux)" alt="SQLite, MongoDB, Git, GitHub, VS Code, Visual Studio, Docker, Linux" />
 
 **Microsoft Power Platform & AI**
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge" alt="Power Apps" />
-<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge" alt="Power Automate" />
-<img src="https://img.shields.io/badge/Copilot%20Studio-7051C8?style=for-the-badge" alt="Copilot Studio" />
+\<img src="[https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logoColor=black)" alt="Power BI" /> \<img src="[https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge)" alt="Power Apps" /> \<img src="[https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge)" alt="Power Automate" /> \<img src="[https://img.shields.io/badge/Copilot%20Studio-7051C8?style=for-the-badge](https://img.shields.io/badge/Copilot%20Studio-7051C8?style=for-the-badge)" alt="Copilot Studio" />
 
-<!--
-## Featured projects
-
-Replace REPO_NAME with your best repositories (2 to 4 is ideal).
-
-<a href="https://github.com/bfabbio90/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90&repo=REPO_NAME&theme=transparent&hide_border=true" alt="REPO_NAME" />
-</a>
-<a href="https://github.com/bfabbio90/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90&repo=REPO_NAME&theme=transparent&hide_border=true" alt="REPO_NAME" />
-</a>
-
-Or describe them briefly:
-
-- **[Project name](https://github.com/bfabbio90/REPO_NAME)**: one line on the problem it solves and the stack used.
--->
+\<!-- ## Featured projects  Replace REPO_NAME with your best repositories (2 to 4 is ideal).  \<a href="[https://github.com/bfabbio90/REPO_NAME](https://github.com/bfabbio90/REPO_NAME)">   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90&repo=REPO_NAME&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90\&repo=REPO_NAME\&theme=transparent\&hide_border=true)" alt="REPO_NAME" /> \</a>  \<a href="[https://github.com/bfabbio90/REPO_NAME](https://github.com/bfabbio90/REPO_NAME)">   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90&repo=REPO_NAME&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=bfabbio90\&repo=REPO_NAME\&theme=transparent\&hide_border=true)" alt="REPO_NAME" /> \</a>  Or describe them briefly:  - \*\*[Project name]\([https://github.com/bfabbio90/REPO_NAME)\*\*](https://github.com/bfabbio90/REPO_NAME\)**): one line on the problem it solves and the stack used. -->
 
 ## GitHub activity
 
-<div align="center">
+\<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90&theme=github" alt="Bruno's GitHub activity overview" width="100%" />
-</picture>
+\<picture>   \<source     media="(prefers-color-scheme: dark)"     srcset="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90\&theme=github_dark)"   />   \<img     src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90&theme=github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfabbio90\&theme=github)"     alt="Bruno's GitHub activity overview"     width="100%"   /> \</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=12&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&card_width=420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&border_radius=12&bg_color=00000000&title_color=0969da&text_color=1f2328&card_width=420" alt="Most used languages" width="420" />
-</picture>
+\<br/>
 
-</div>
+\<picture>
+&#x20; \<source
+&#x20;   media="(prefers-color-scheme: dark)"
+&#x20;   srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=6&hide_border=false&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90\&layout=compact\&langs_count=6\&hide_border=false\&theme=dark)"
+&#x20; />
+&#x20; \<img
+&#x20;   src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90&layout=compact&langs_count=6&hide_border=false&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=bfabbio90\&layout=compact\&langs_count=6\&hide_border=false\&theme=default)"
+&#x20;   alt="Most used languages"
+&#x20;   width="420"
+&#x20; />
+\</picture>
+
+\</div>
 
 ## Let's connect
 
 I'm always open to exchanging ideas, learning with other developers and collaborating on useful technology. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/brunofabbio/).
 
-<div align="center">
-  <sub>Learn by doing · Build with purpose · Keep improving</sub>
-</div>
+\<div align="center">
+&#x20; \<sub>Learn by doing · Build with purpose · Keep improving\</sub>
+\</div>
